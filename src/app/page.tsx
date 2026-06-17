@@ -10,12 +10,12 @@ export default function Page() {
       {/* Header */}
       <header className="px-4 sm:px-10 py-3 sm:py-4 flex items-center justify-between max-w-7xl mx-auto w-full flex-shrink-0">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MORIOX-Pharma-GvZdvqnJJTWk17r49dhbBNdMUeXhcV.png"
+          src="/MORIOX-Pharma.png"
           alt="MORIOX Pharma"
-          width={200}
-          height={70}
+          width={240}
+          height={80}
           priority
-          className="h-10 sm:h-16 w-auto"
+          className="h-14 sm:h-16 lg:h-20 w-auto"
         />
         <div className="flex items-center gap-1.5 text-[10px] sm:text-xs font-medium text-[#0098a0] bg-[#0098a0]/10 px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-full">
           <span className="relative flex h-1.5 w-1.5 sm:h-2 sm:w-2">

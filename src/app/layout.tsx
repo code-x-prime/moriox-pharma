@@ -14,12 +14,7 @@ export const metadata: Metadata = {
   description: 'MORIOX Pharma Private Limited - Innovating Healthcare Solutions. Our new website is coming soon.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Fav-cnVdHKybD4vPMEBUh4qPgDKrE7vxjb.png',
-        type: 'image/png',
-      },
-    ],
+    icon: '/Fav.png',
   },
 }
 
